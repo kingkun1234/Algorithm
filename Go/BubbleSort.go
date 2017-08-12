@@ -1,4 +1,5 @@
 //Go 实现冒泡排序
+package main
 
 func bubbleSort(arr []int) []int {
     length := len(arr)
